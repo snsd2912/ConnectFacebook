@@ -1,0 +1,7 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.7",
+        "pragmarx/google2fa": "^8.0",
+        "twilio/sdk": "^6.11"
+    }
+}
