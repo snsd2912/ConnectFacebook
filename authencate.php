@@ -5,6 +5,7 @@
     require 'vendor/autoload.php';
     use Twilio\Rest\Client;
 
+    // information from Twilio account 
     $err = "";
     $sid = "AC12370c3c8d30ce618377c411d26e0a3e";
     $token = "b2b7a259a03ce84fbf4b063a18d4e595";
